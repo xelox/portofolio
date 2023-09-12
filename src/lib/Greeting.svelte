@@ -13,10 +13,11 @@
 <style>
     @import url('https://fonts.googleapis.com/css2?family=DM+Mono:ital,wght@0,300;0,400;0,500;1,300;1,400;1,500&display=swap');
     main{
+        top: 0;
         height: 100vh;
         color: var(--text);
         font-family: 'DM Mono', monospace;
-        position: relative;
+        scroll-snap-align: start;
     }
     .dim{
         color: var(--dim-text);
