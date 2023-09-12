@@ -1,0 +1,16 @@
+:root{
+    --bg: #1e8669;
+    --text: #ffffff;
+    --accent: #61dafb;
+    --accent-blue: #2ad8ff;
+    --accent-green: #67ff41;
+    --accent-red: #ff5e5e;
+    --dim-text: #a0a0a0;
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+    box-sizing: border-box;
+}
